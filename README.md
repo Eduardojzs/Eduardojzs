@@ -7,7 +7,7 @@
 )](https://www.facebook.com/eduardo.jose.988/)
 
 ![Eduardojzs GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardojzs&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardojzs)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardojzs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologia que eu uso no meu dia
 
