@@ -32,7 +32,7 @@ Atualmente estou estudando:
 - Linguagem Python 
 
 Objetivos:
-- Atuar no Analista de dados
+- Atuar como Analista de dados
 
 Estou em busca de uma oportunidade de estágio.
 
