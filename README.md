@@ -28,15 +28,13 @@ Fascinado por tecnologia, estou disposto a melhorar é aprender cada dia mais, q
 Me considero uma pessoa ágil, esforçada, autodidata e que gosta de desafios.
 
 Atualmente estou estudando:
-- Logica da programação e algoritmos. 
-- Linguagem Python como base para iniciar no mundo da programação
-- Estou Praticando HTML5, CSS, JAVASCRIPT e React.
+- SQL SERVER 
+- Linguagem Python 
 
 Objetivos:
-- Atuar no Front EnD
+- Atuar no Analista de dados
 
 Estou em busca de uma oportunidade de estágio.
 
 E-mail: Eduardojz524@gmail.com
-
 WhatsApp:
